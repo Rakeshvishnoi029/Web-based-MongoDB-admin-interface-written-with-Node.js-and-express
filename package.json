@@ -1,0 +1,32 @@
+{
+  "name": "mongoadmin",
+  "version": "1.0.0",
+  "description": "Admin and api portal in express and mongo",
+  "main": "app.js",
+  "dependencies": {
+    "bcrypt": "^3.0.6",
+    "body-parser": "^1.19.0",
+    "cookie-parser": "^1.4.4",
+    "cors": "^2.8.5",
+    "ejs": "^2.6.1",
+    "express": "^4.17.1",
+    "express-fileupload": "^1.1.4",
+    "express-flash-messages": "^0.1.1",
+    "express-session": "^1.16.1",
+    "express-validator": "^5.3.1",
+    "moment": "^2.24.0",
+    "mongoose": "^5.5.13",
+    "nodemon": "^1.19.1",
+    "pug": "^2.0.3",
+    "request": "^2.88.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "mongoadmin"
+  ],
+  "author": "Rakesh Vishnoi",
+  "license": "ISC"
+}
