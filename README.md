@@ -7,7 +7,7 @@ how to start ?
 
 npm install
 
-node server.js
+node app.js
 
 <b> Features </b> <br>
 Connect to databases  <br>
