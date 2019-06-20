@@ -11,7 +11,7 @@ node app.js
 
 <b> Features </b> <br>
 Connect to databases  <br>
-Admin htnl theme integration<br> 
+Admin html theme integration<br> 
 Admin login area <br>
 Admin dashboards page <br>
 Admin Users listing/Add/Edit/Delete pages<br>
